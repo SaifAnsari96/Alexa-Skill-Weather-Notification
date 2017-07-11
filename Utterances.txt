@@ -1,0 +1,7 @@
+weather what's the weather in {city}
+weather say the weather of {city}
+weather weather of {city}
+weather {city} weather
+weather {city}
+help help
+help what you offer

@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "weather",
+      "slots": [
+        {
+          "name" : "city",
+          "type" : "LIST_OF_CITIES"
+        }
+      ]
+    },
+	{
+		"intent" : "help"
+	},
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
